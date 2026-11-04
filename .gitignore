@@ -1,0 +1,5 @@
+# 真实密钥文件：绝不提交。已跟踪的 .env 需用户手动 git rm --cached 并轮换密钥（见 README 失败回退/安全说明）。
+.env
+*.tmp
+__pycache__/
+*.pyc
