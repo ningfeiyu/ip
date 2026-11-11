@@ -18,7 +18,7 @@ jobs:
 
       - name: Download latest txt
         run: |
-          curl -L "https://api.soso.sryze.cc/AutoSubFBot.txt" -o all.txt
+          curl -L "https://bestcf.pages.dev/lzj/all.txt" -o all.txt
 
       - name: Commit changes
         run: |
